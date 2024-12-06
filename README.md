@@ -1,5 +1,7 @@
 # Hi!
-I did this project for my studies
+___
+*For now project has issues with imports, resolve soon*<br>
+___
 #### db - SQLite 
 #### The game starts from busko_game_main_logic.py
 This code is not perfect like this readme.<br>
